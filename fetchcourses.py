@@ -89,33 +89,23 @@ def extractClassNames(str, departmentCode, allDepartments):
         
         if str[i].isupper():
             newDepartmentName = ""
+            nameToCodeConversion = ""
             for d in allDepartments:
                 possDepCode = d['name']
                 possDepFullName = d['longname']
-                if len(possDepCode) > len(newDepartmentName) and i+len(possDepCode) <= len(str) and str[i:i+len(possDepCode)] == possDepCode:
+                if len(possDepCode) > len(newDepartmentName) and i+len(possDepCode) <= len(str) and str[i:i+len(possDepCode)].upper() == possDepCode.upper():
                     newDepartmentName = possDepCode
-                if len(possDepFullName) > len(newDepartmentName) and i+len(possDepFullName) <= len(str) and str[i:i+len(possDepFullName)] == possDepFullName:
+                    nameToCodeConversion = ""
+                if len(possDepFullName) > len(newDepartmentName) and i+len(possDepFullName) <= len(str) and str[i:i+len(possDepFullName)].upper() == possDepFullName.upper():
                     newDepartmentName = possDepFullName
+                    nameToCodeConversion = possDepCode
             if newDepartmentName != "":
-                i = i + len(newDepartmentName)
-                currentDepartment = newDepartmentName
-        '''
-        if str[i].isupper():
-            if not currentlyBuildingDepartment:
-                latestDepartment = str[i]
-                currentlyBuildingDepartment = True
-            else:
-                latestDepartment += str[i]
-        else:
-            if currentlyBuildingDepartment and str[i].isalpha():
-                for j in range (i, len(str)):
-                    if str[j].isalpha():
-                        latestDepartment += str[j]
-                    else:
-                        i = j-1
-                        break
-            currentlyBuildingDepartment = False
-        '''
+                i = i + len(newDepartmentName) - 1
+                if nameToCodeConversion != "":
+                    latestDepartment = nameToCodeConversion
+                else:
+                    latestDepartment = newDepartmentName
+                
         i = i + 1
     print(allClasses)
     
