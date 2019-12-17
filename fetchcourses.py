@@ -3,6 +3,7 @@ import xmltodict
 from datetime import datetime
 import time
 from stanfordclasses import StanfordClass
+import pickle
 
 BASEURL = "https://explorecourses.stanford.edu/"
 DEPARTMENTURLMODIFER = "?view=xml-20140630"
@@ -208,7 +209,8 @@ allCourses = findAllCourses(allDepartments)
 parseStartTime = time.time()
 StanfordClassList = createCourseMap(allCourses, allDepartments)
 totalTime = time.time()-parseStartTime
-    
+print("COURSE EXTRACTION AND TEXT PROCESSING COMPLETE")
+print("Processed the text of " + str(len(allCourses)) + " course descriptions and discovered " + str(numDirectCourseRelations) + " direct relationships and " + str(numIndirectCourseRelations) + " indirect relationships between courses in " + str(totalTime) + " seconds!.")
 
 print("")
 print("")
@@ -265,8 +267,7 @@ for department in allDepartments:
     time.sleep(.002)
 print("")
 print("")
-print("COURSE EXTRACTION AND TEXT PROCESSING COMPLETE")
-print("Processed the text of " + str(len(allCourses)) + " course descriptions and discovered " + str(numDirectCourseRelations) + " direct relationships and " + str(numIndirectCourseRelations) + " indirect relationships between courses.")
+
 print("")
 print("")
 print("WELCOME TO CARDINAL DIRECTION, LET'S HELP YOU FIND WHAT PATHS YOUR COURSES CAN TAKE YOU!")
