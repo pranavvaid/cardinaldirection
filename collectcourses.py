@@ -170,7 +170,15 @@ StanfordClassList = createCourseMap(allCourses, allDepartments)
 totalTime = time.time()-parseStartTime
 print("COURSE EXTRACTION AND TEXT PROCESSING COMPLETE")
 print("Processed the text of " + str(len(allCourses)) + " course descriptions and discovered " + str(numDirectCourseRelations) + " direct relationships and " + str(numIndirectCourseRelations) + " indirect relationships between courses in " + str(totalTime) + " seconds!.")
+
+file1 = open('/pickles/alldepartments.txt', 'w')
+for currentDepartment in allDepartments:
+    file1.write(currentDepartment['name'] + "\n")
+file1.close()
+
+
 with open('/pickles/stanfordclasslist.pkl', 'wb') as f:
     pickle.dump(StanfordClassList, f)
 
 f.close()
+

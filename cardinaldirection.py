@@ -47,6 +47,10 @@ def determineAllRequiredPrerequisites(classToDetermine):
 with open('stanfordclasslist.pkl', 'rb') as f:
     StanfordClassList = pickle.load(f)
 f.close()
+
+print("")
+print("")
+print("")
 print("WELCOME TO CARDINAL DIRECTION, LET'S HELP YOU FIND WHAT PATHS YOUR COURSES CAN TAKE YOU!")
 print("-------------------------------------------------------------------------------------------------------------------------")
 while True:
