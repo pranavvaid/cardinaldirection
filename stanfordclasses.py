@@ -30,3 +30,8 @@ class StanfordClass:
         print("Prerequisites: " + prereqstring)
         print("This course is a prequisite for: " + prereqOfstring)
         print("------------------------------------------------------------------------------------------------------")
+    def __repr__(self):
+        return '{}: {}'.format(self.name, self.title)
+        #return 'StanfordClass({}, {}, {}, {})'.format(self.name, self.title, self.minUnits, self.maxUnits)
+    def __hash__(self):
+        return hash(repr(self))

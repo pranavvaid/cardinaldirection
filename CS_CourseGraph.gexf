@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2019-12-17">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="CS 106A: Programming Methodology" label="CS 106A: Programming Methodology" />
+      <node id="CS 238: Decision Making under Uncertainty (AA 228)" label="CS 238: Decision Making under Uncertainty (AA 228)" />
+      <node id="CS 221: Artificial Intelligence: Principles and Techniques" label="CS 221: Artificial Intelligence: Principles and Techniques" />
+      <node id="CS 106B: Programming Abstractions" label="CS 106B: Programming Abstractions" />
+      <node id="CS 161: Design and Analysis of Algorithms" label="CS 161: Design and Analysis of Algorithms" />
+      <node id="CS 261: Optimization and Algorithmic Paradigms" label="CS 261: Optimization and Algorithmic Paradigms" />
+      <node id="CS 1C: Introduction to Computing at Stanford (VPTL 1)" label="CS 1C: Introduction to Computing at Stanford (VPTL 1)" />
+      <node id="CS 1U: Practical Unix" label="CS 1U: Practical Unix" />
+      <node id="CS 7: Personal Finance for Engineers" label="CS 7: Personal Finance for Engineers" />
+      <node id="CS 9: Problem-Solving for the CS Technical Interview" label="CS 9: Problem-Solving for the CS Technical Interview" />
+      <node id="CS 11SI: How to Make VR: Introduction to Virtual Reality Design and Development" label="CS 11SI: How to Make VR: Introduction to Virtual Reality Design and Development" />
+      <node id="CS 22A: The Social &amp; Economic Impact of Artificial Intelligence (INTLPOL 200)" label="CS 22A: The Social &amp; Economic Impact of Artificial Intelligence (INTLPOL 200)" />
+      <node id="CS 28: Artificial Intelligence, Entrepreneurship and Society in the 21st Century and Beyond" label="CS 28: Artificial Intelligence, Entrepreneurship and Society in the 21st Century and Beyond" />
+      <node id="CS 106X: Programming Abstractions (Accelerated)" label="CS 106X: Programming Abstractions (Accelerated)" />
+      <node id="CS 41: Hap.py Code: The Python Programming Language" label="CS 41: Hap.py Code: The Python Programming Language" />
+      <node id="CS 107: Computer Organization and Systems" label="CS 107: Computer Organization and Systems" />
+      <node id="CS 103: Mathematical Foundations of Computing" label="CS 103: Mathematical Foundations of Computing" />
+      <node id="CS 43: Functional Programming Abstractions" label="CS 43: Functional Programming Abstractions" />
+      <node id="CS 45N: Computers and Photography: From Capture to Sharing" label="CS 45N: Computers and Photography: From Capture to Sharing" />
+      <node id="CS 47: Cross-Platform Mobile Development" label="CS 47: Cross-Platform Mobile Development" />
+      <node id="CS 49N: Using Bits to Control Atoms" label="CS 49N: Using Bits to Control Atoms" />
+      <node id="CS 50: Using Tech for Good" label="CS 50: Using Tech for Good" />
+      <node id="CS 51: CS + Social Good Studio: Designing Social Impact Projects" label="CS 51: CS + Social Good Studio: Designing Social Impact Projects" />
+      <node id="CS 52: CS + Social Good Studio: Implementing Social Good Projects" label="CS 52: CS + Social Good Studio: Implementing Social Good Projects" />
+      <node id="CS 56N: Great Discoveries and Inventions in Computing" label="CS 56N: Great Discoveries and Inventions in Computing" />
+      <node id="CS 57N: Randomness: Computational and Philosophical Approaches (PHIL 3N)" label="CS 57N: Randomness: Computational and Philosophical Approaches (PHIL 3N)" />
+      <node id="CS 58: You Say You Want a Revolution (Blockchain Edition)" label="CS 58: You Say You Want a Revolution (Blockchain Edition)" />
+      <node id="CS 58N: The Blockchain Revolution Will Not Be Televised" label="CS 58N: The Blockchain Revolution Will Not Be Televised" />
+      <node id="CS 80Q: Race and Gender in Silicon Valley (AFRICAAM 80Q)" label="CS 80Q: Race and Gender in Silicon Valley (AFRICAAM 80Q)" />
+      <node id="CS 83: Playback Theater" label="CS 83: Playback Theater" />
+      <node id="CS 91SI: Digital Canvas: An Introduction to UI/UX Design" label="CS 91SI: Digital Canvas: An Introduction to UI/UX Design" />
+      <node id="CS 93: Teaching AI" label="CS 93: Teaching AI" />
+      <node id="CS 100A: Problem-solving Lab for CS106A" label="CS 100A: Problem-solving Lab for CS106A" />
+      <node id="CS 100B: Problem-solving Lab for CS106B" label="CS 100B: Problem-solving Lab for CS106B" />
+      <node id="CS 101: Introduction to Computing Principles" label="CS 101: Introduction to Computing Principles" />
+      <node id="CS 102: Working with Data - Tools and Techniques" label="CS 102: Working with Data - Tools and Techniques" />
+      <node id="CS 103A: Mathematical Problem-solving Strategies" label="CS 103A: Mathematical Problem-solving Strategies" />
+      <node id="CS 105: Introduction to Computers" label="CS 105: Introduction to Computers" />
+      <node id="CS 106AX: Programming Methodologies in JavaScript and Python (Accelerated)" label="CS 106AX: Programming Methodologies in JavaScript and Python (Accelerated)" />
+      <node id="CS 106E: Exploration of Computing" label="CS 106E: Exploration of Computing" />
+      <node id="CS 106L: Standard C++ Programming Laboratory" label="CS 106L: Standard C++ Programming Laboratory" />
+      <node id="CS 106S: Coding for Social Good" label="CS 106S: Coding for Social Good" />
+      <node id="CS 107A: Problem-solving Lab for CS107" label="CS 107A: Problem-solving Lab for CS107" />
+      <node id="CS 107E: Computer Systems from the Ground Up" label="CS 107E: Computer Systems from the Ground Up" />
+      <node id="CS 108: Object-Oriented Systems Design" label="CS 108: Object-Oriented Systems Design" />
+      <node id="CS 109: Introduction to Probability for Computer Scientists" label="CS 109: Introduction to Probability for Computer Scientists" />
+      <node id="CS 110: Principles of Computer Systems" label="CS 110: Principles of Computer Systems" />
+      <node id="CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)" label="CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)" />
+      <node id="CS 129: Applied Machine Learning" label="CS 129: Applied Machine Learning" />
+      <node id="CS 131: Computer Vision: Foundations and Applications" label="CS 131: Computer Vision: Foundations and Applications" />
+      <node id="CS 140: Operating Systems and Systems Programming" label="CS 140: Operating Systems and Systems Programming" />
+      <node id="CS 140E: Operating systems design and implementation" label="CS 140E: Operating systems design and implementation" />
+      <node id="CS 141: Introduction to Computer Sound" label="CS 141: Introduction to Computer Sound" />
+      <node id="CS 142: Web Applications" label="CS 142: Web Applications" />
+      <node id="CS 143: Compilers" label="CS 143: Compilers" />
+      <node id="CS 144: Introduction to Computer Networking" label="CS 144: Introduction to Computer Networking" />
+      <node id="CS 145: Data Management and Data Systems" label="CS 145: Data Management and Data Systems" />
+      <node id="CS 146: Introduction to Game Design and Development" label="CS 146: Introduction to Game Design and Development" />
+      <node id="CS 147: Introduction to Human-Computer Interaction Design" label="CS 147: Introduction to Human-Computer Interaction Design" />
+      <node id="CS 148: Introduction to Computer Graphics and Imaging" label="CS 148: Introduction to Computer Graphics and Imaging" />
+      <node id="CS 149: Parallel Computing" label="CS 149: Parallel Computing" />
+      <node id="CS 151: Logic Programming" label="CS 151: Logic Programming" />
+      <node id="CS 152: Trust and Safety Engineering" label="CS 152: Trust and Safety Engineering" />
+      <node id="CS 154: Introduction to Automata and Complexity Theory" label="CS 154: Introduction to Automata and Complexity Theory" />
+      <node id="CS 155: Computer and Network Security" label="CS 155: Computer and Network Security" />
+      <node id="CS 157: Computational Logic" label="CS 157: Computational Logic" />
+      <node id="CS 166: Data Structures" label="CS 166: Data Structures" />
+      <node id="CS 168: The Modern Algorithmic Toolbox" label="CS 168: The Modern Algorithmic Toolbox" />
+      <node id="CS 170: Stanford Laptop Orchestra: Composition, Coding, and Performance (MUSIC 128)" label="CS 170: Stanford Laptop Orchestra: Composition, Coding, and Performance (MUSIC 128)" />
+      <node id="CS 181: Computers, Ethics, and Public Policy" label="CS 181: Computers, Ethics, and Public Policy" />
+      <node id="CS 181W: Computers, Ethics, and Public Policy (WIM)" label="CS 181W: Computers, Ethics, and Public Policy (WIM)" />
+      <node id="CS 182: Ethics, Public Policy, and Technological Change (COMM 180, ETHICSOC 182, PHIL 82, POLISCI 182, PUBLPOL 182)" label="CS 182: Ethics, Public Policy, and Technological Change (COMM 180, ETHICSOC 182, PHIL 82, POLISCI 182, PUBLPOL 182)" />
+      <node id="CS 182W: Ethics, Public Policy, and Technological Change (WIM)" label="CS 182W: Ethics, Public Policy, and Technological Change (WIM)" />
+      <node id="CS 183E: Effective Leadership in High-Tech" label="CS 183E: Effective Leadership in High-Tech" />
+      <node id="CS 190: Software Design Studio" label="CS 190: Software Design Studio" />
+      <node id="CS 191: Senior Project" label="CS 191: Senior Project" />
+      <node id="CS 191W: Writing Intensive Senior Project (WIM)" label="CS 191W: Writing Intensive Senior Project (WIM)" />
+      <node id="CS 192: Programming Service Project" label="CS 192: Programming Service Project" />
+      <node id="CS 193A: Android Programming" label="CS 193A: Android Programming" />
+      <node id="CS 193C: Client-Side Internet Technologies" label="CS 193C: Client-Side Internet Technologies" />
+      <node id="CS 193P: iOS Application Development" label="CS 193P: iOS Application Development" />
+      <node id="CS 193Q: Introduction to Python Programming" label="CS 193Q: Introduction to Python Programming" />
+      <node id="CS 193X: Web Programming Fundamentals" label="CS 193X: Web Programming Fundamentals" />
+      <node id="CS 194: Software Project" label="CS 194: Software Project" />
+      <node id="CS 194H: User Interface Design Project" label="CS 194H: User Interface Design Project" />
+      <node id="CS 194W: Software Project (WIM)" label="CS 194W: Software Project (WIM)" />
+      <node id="CS 195: Supervised Undergraduate Research" label="CS 195: Supervised Undergraduate Research" />
+      <node id="CS 196: Computer Consulting (VPTL 196)" label="CS 196: Computer Consulting (VPTL 196)" />
+      <node id="CS 197: Computer Science Research" label="CS 197: Computer Science Research" />
+      <node id="CS 197A: Computer Science Research Seminar" label="CS 197A: Computer Science Research Seminar" />
+      <node id="CS 198: Teaching Computer Science" label="CS 198: Teaching Computer Science" />
+      <node id="CS 198B: Additional Topics in Teaching Computer Science" label="CS 198B: Additional Topics in Teaching Computer Science" />
+      <node id="CS 199: Independent Work" label="CS 199: Independent Work" />
+      <node id="CS 199P: Independent Work" label="CS 199P: Independent Work" />
+      <node id="CS 202: Law for Computer Science Professionals" label="CS 202: Law for Computer Science Professionals" />
+      <node id="CS 203: Cybersecurity: A Legal and Technical Perspective (INTLPOL 251)" label="CS 203: Cybersecurity: A Legal and Technical Perspective (INTLPOL 251)" />
+      <node id="CS 204: Legal Informatics" label="CS 204: Legal Informatics" />
+      <node id="CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning" label="CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning" />
+      <node id="CS 206: Exploring Computational Journalism (COMM 281)" label="CS 206: Exploring Computational Journalism (COMM 281)" />
+      <node id="CS 208E: Great Ideas in Computer Science" label="CS 208E: Great Ideas in Computer Science" />
+      <node id="CS 209: Law, Bias, &amp; Algorithms (CSRE 230, MS&amp;E 330, SOC 279)" label="CS 209: Law, Bias, &amp; Algorithms (CSRE 230, MS&amp;E 330, SOC 279)" />
+      <node id="CS 210A: Software Project Experience with Corporate Partners" label="CS 210A: Software Project Experience with Corporate Partners" />
+      <node id="CS 210B: Software Project Experience with Corporate Partners" label="CS 210B: Software Project Experience with Corporate Partners" />
+      <node id="CS 213: Creating Great VR: From Ideation to Monetization" label="CS 213: Creating Great VR: From Ideation to Monetization" />
+      <node id="CS 217: Hardware Accelerators for Machine Learning" label="CS 217: Hardware Accelerators for Machine Learning" />
+      <node id="CS 223A: Introduction to Robotics (ME 320)" label="CS 223A: Introduction to Robotics (ME 320)" />
+      <node id="CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)" label="CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)" />
+      <node id="CS 229: Machine Learning (STATS 229)" label="CS 229: Machine Learning (STATS 229)" />
+      <node id="CS 224S: Spoken Language Processing (LINGUIST 285)" label="CS 224S: Spoken Language Processing (LINGUIST 285)" />
+      <node id="CS 224U: Natural Language Understanding (LINGUIST 188, LINGUIST 288)" label="CS 224U: Natural Language Understanding (LINGUIST 188, LINGUIST 288)" />
+      <node id="CS 224W: Machine Learning with Graphs" label="CS 224W: Machine Learning with Graphs" />
+      <node id="CS 225A: Experimental Robotics" label="CS 225A: Experimental Robotics" />
+      <node id="CS 227B: General Game Playing" label="CS 227B: General Game Playing" />
+      <node id="CS 228: Probabilistic Graphical Models: Principles and Techniques" label="CS 228: Probabilistic Graphical Models: Principles and Techniques" />
+      <node id="CS 229T: Statistical Learning Theory (STATS 231)" label="CS 229T: Statistical Learning Theory (STATS 231)" />
+      <node id="CS 230: Deep Learning" label="CS 230: Deep Learning" />
+      <node id="CS 231A: Computer Vision: From 3D Reconstruction to Recognition" label="CS 231A: Computer Vision: From 3D Reconstruction to Recognition" />
+      <node id="CS 231C: Computer Vision and Image Analysis of Art" label="CS 231C: Computer Vision and Image Analysis of Art" />
+      <node id="CS 231N: Convolutional Neural Networks for Visual Recognition" label="CS 231N: Convolutional Neural Networks for Visual Recognition" />
+      <node id="CS 232: Digital Image Processing (EE 368)" label="CS 232: Digital Image Processing (EE 368)" />
+      <node id="CS 233: Geometric and Topological Data Analysis (CME 251)" label="CS 233: Geometric and Topological Data Analysis (CME 251)" />
+      <node id="CS 234: Reinforcement Learning" label="CS 234: Reinforcement Learning" />
+      <node id="CS 235: Computational Methods for Biomedical Image Analysis and Interpretation (BIOMEDIN 260, RAD 260)" label="CS 235: Computational Methods for Biomedical Image Analysis and Interpretation (BIOMEDIN 260, RAD 260)" />
+      <node id="CS 236: Deep Generative Models" label="CS 236: Deep Generative Models" />
+      <node id="CS 237A: Principles of Robot Autonomy I (AA 174A, AA 274A, EE 260A)" label="CS 237A: Principles of Robot Autonomy I (AA 174A, AA 274A, EE 260A)" />
+      <node id="CS 237B: Principles of Robot Autonomy II (AA 174B, AA 274B, EE 260B)" label="CS 237B: Principles of Robot Autonomy II (AA 174B, AA 274B, EE 260B)" />
+      <node id="CS 239: Advanced Topics in Sequential Decision Making (AA 229)" label="CS 239: Advanced Topics in Sequential Decision Making (AA 229)" />
+      <node id="CS 240: Advanced Topics in Operating Systems" label="CS 240: Advanced Topics in Operating Systems" />
+      <node id="CS 241: Embedded Systems Workshop (EE 285)" label="CS 241: Embedded Systems Workshop (EE 285)" />
+      <node id="CS 242: Programming Languages" label="CS 242: Programming Languages" />
+      <node id="CS 243: Program Analysis and Optimizations" label="CS 243: Program Analysis and Optimizations" />
+      <node id="CS 244: Advanced Topics in Networking" label="CS 244: Advanced Topics in Networking" />
+      <node id="CS 244B: Distributed Systems" label="CS 244B: Distributed Systems" />
+      <node id="CS 245: Principles of Data-Intensive Systems" label="CS 245: Principles of Data-Intensive Systems" />
+      <node id="CS 246: Mining Massive Data Sets" label="CS 246: Mining Massive Data Sets" />
+      <node id="CS 246H: Mining Massive Data Sets Hadoop Lab" label="CS 246H: Mining Massive Data Sets Hadoop Lab" />
+      <node id="CS 247A: Design for Artificial Intelligence" label="CS 247A: Design for Artificial Intelligence" />
+      <node id="CS 247G: Introduction to Game Design" label="CS 247G: Introduction to Game Design" />
+      <node id="CS 247I: Design for Understanding" label="CS 247I: Design for Understanding" />
+      <node id="CS 247S: Service Design" label="CS 247S: Service Design" />
+      <node id="CS 248: Interactive Computer Graphics" label="CS 248: Interactive Computer Graphics" />
+      <node id="CS 250: Algebraic Error Correcting Codes (EE 387)" label="CS 250: Algebraic Error Correcting Codes (EE 387)" />
+      <node id="CS 251: Cryptocurrencies and blockchain technologies" label="CS 251: Cryptocurrencies and blockchain technologies" />
+      <node id="CS 252: Analysis of Boolean Functions" label="CS 252: Analysis of Boolean Functions" />
+      <node id="CS 253: Web Security" label="CS 253: Web Security" />
+      <node id="CS 254: Computational Complexity" label="CS 254: Computational Complexity" />
+      <node id="CS 254B: Computational Complexity II" label="CS 254B: Computational Complexity II" />
+      <node id="CS 255: Introduction to Cryptography" label="CS 255: Introduction to Cryptography" />
+      <node id="CS 257: Logic and Artificial Intelligence (PHIL 356C)" label="CS 257: Logic and Artificial Intelligence (PHIL 356C)" />
+      <node id="CS 259Q: Quantum Computing" label="CS 259Q: Quantum Computing" />
+      <node id="CS 260: Geometry of Polynomials in Algorithm Design" label="CS 260: Geometry of Polynomials in Algorithm Design" />
+      <node id="CS 264: Beyond Worst-Case Analysis" label="CS 264: Beyond Worst-Case Analysis" />
+      <node id="CS 265: Randomized Algorithms and Probabilistic Analysis (CME 309)" label="CS 265: Randomized Algorithms and Probabilistic Analysis (CME 309)" />
+      <node id="CS 268: Geometric Algorithms" label="CS 268: Geometric Algorithms" />
+      <node id="CS 269G: Almost Linear Time Graph Algorithms (MS&amp;E 313)" label="CS 269G: Almost Linear Time Graph Algorithms (MS&amp;E 313)" />
+      <node id="CS 269O: Introduction to Optimization Theory (MS&amp;E 213)" label="CS 269O: Introduction to Optimization Theory (MS&amp;E 213)" />
+      <node id="CS 269Q: Elements of Quantum Computer Programming" label="CS 269Q: Elements of Quantum Computer Programming" />
+      <node id="CS 270: Modeling Biomedical Systems: Ontology, Terminology, Problem Solving (BIOMEDIN 210)" label="CS 270: Modeling Biomedical Systems: Ontology, Terminology, Problem Solving (BIOMEDIN 210)" />
+      <node id="CS 271: Artificial Intelligence in Healthcare (BIODS 220, BIOMEDIN 220)" label="CS 271: Artificial Intelligence in Healthcare (BIODS 220, BIOMEDIN 220)" />
+      <node id="CS 272: Introduction to Biomedical Informatics Research Methodology (BIOE 212, BIOMEDIN 212, GENE 212)" label="CS 272: Introduction to Biomedical Informatics Research Methodology (BIOE 212, BIOMEDIN 212, GENE 212)" />
+      <node id="CS 273A: The Human Genome Source Code (BIOMEDIN 273A, DBIO 273A)" label="CS 273A: The Human Genome Source Code (BIOMEDIN 273A, DBIO 273A)" />
+      <node id="CS 273B: Deep Learning in Genomics and Biomedicine (BIODS 237, BIOMEDIN 273B, GENE 236)" label="CS 273B: Deep Learning in Genomics and Biomedicine (BIODS 237, BIOMEDIN 273B, GENE 236)" />
+      <node id="CS 273C: Cloud Computing for Biology and Healthcare (BIOMEDIN 222, GENE 222)" label="CS 273C: Cloud Computing for Biology and Healthcare (BIOMEDIN 222, GENE 222)" />
+      <node id="CS 274: Representations and Algorithms for Computational Molecular Biology (BIOE 214, BIOMEDIN 214, GENE 214)" label="CS 274: Representations and Algorithms for Computational Molecular Biology (BIOE 214, BIOMEDIN 214, GENE 214)" />
+      <node id="CS 275: Translational Bioinformatics (BIOE 217, BIOMEDIN 217, GENE 217)" label="CS 275: Translational Bioinformatics (BIOE 217, BIOMEDIN 217, GENE 217)" />
+      <node id="CS 275A: Symbolic Musical Information (MUSIC 253)" label="CS 275A: Symbolic Musical Information (MUSIC 253)" />
+      <node id="CS 275B: Music Query, Analysis, and Style Simulation (MUSIC 254)" label="CS 275B: Music Query, Analysis, and Style Simulation (MUSIC 254)" />
+      <node id="CS 276: Information Retrieval and Web Search (LINGUIST 286)" label="CS 276: Information Retrieval and Web Search (LINGUIST 286)" />
+      <node id="CS 278: Social Computing" label="CS 278: Social Computing" />
+      <node id="CS 279: Computational Biology: Structure and Organization of Biomolecules and Cells (BIOE 279, BIOMEDIN 279, BIOPHYS 279, CME 279)" label="CS 279: Computational Biology: Structure and Organization of Biomolecules and Cells (BIOE 279, BIOMEDIN 279, BIOPHYS 279, CME 279)" />
+      <node id="CS 294A: Research Project in Artificial Intelligence" label="CS 294A: Research Project in Artificial Intelligence" />
+      <node id="CS 294S: Research Project in Software Systems and Security" label="CS 294S: Research Project in Software Systems and Security" />
+      <node id="CS 294W: Writing Intensive Research Project in Computer Science" label="CS 294W: Writing Intensive Research Project in Computer Science" />
+      <node id="CS 298: Seminar on Teaching Introductory Computer Science (EDUC 298)" label="CS 298: Seminar on Teaching Introductory Computer Science (EDUC 298)" />
+      <node id="CS 300: Departmental Lecture Series" label="CS 300: Departmental Lecture Series" />
+      <node id="CS 309: Industrial Lectureships in Computer Science" label="CS 309: Industrial Lectureships in Computer Science" />
+      <node id="CS 309A: Cloud Computing Seminar" label="CS 309A: Cloud Computing Seminar" />
+      <node id="CS 315B: Parallel Computing Research Project" label="CS 315B: Parallel Computing Research Project" />
+      <node id="CS 316: Advanced Multi-Core Systems" label="CS 316: Advanced Multi-Core Systems" />
+      <node id="CS 319: Topics in Digital Systems" label="CS 319: Topics in Digital Systems" />
+      <node id="CS 320: Value of Data and AI" label="CS 320: Value of Data and AI" />
+      <node id="CS 323: Automated Reasoning: Theory and Applications" label="CS 323: Automated Reasoning: Theory and Applications" />
+      <node id="CS 325B: Data for Sustainable Development (EARTHSYS 162, EARTHSYS 262)" label="CS 325B: Data for Sustainable Development (EARTHSYS 162, EARTHSYS 262)" />
+      <node id="CS 326: Topics in Advanced Robotic Manipulation" label="CS 326: Topics in Advanced Robotic Manipulation" />
+      <node id="CS 327A: Advanced Robotic Manipulation" label="CS 327A: Advanced Robotic Manipulation" />
+      <node id="CS 328: Topics in Computer Vision" label="CS 328: Topics in Computer Vision" />
+      <node id="CS 329: Topics in Artificial Intelligence" label="CS 329: Topics in Artificial Intelligence" />
+      <node id="CS 329M: Topics in Artificial Intelligence: Algorithms of Advanced Machine Learning" label="CS 329M: Topics in Artificial Intelligence: Algorithms of Advanced Machine Learning" />
+      <node id="CS 330: Deep Multi-task and Meta Learning" label="CS 330: Deep Multi-task and Meta Learning" />
+      <node id="CS 331B: Representation Learning in Computer Vision" label="CS 331B: Representation Learning in Computer Vision" />
+      <node id="CS 332: Advanced Survey of Reinforcement Learning" label="CS 332: Advanced Survey of Reinforcement Learning" />
+      <node id="CS 333: Algorithms for Interactive Robotics" label="CS 333: Algorithms for Interactive Robotics" />
+      <node id="CS 334A: Convex Optimization I (CME 364A, EE 364A)" label="CS 334A: Convex Optimization I (CME 364A, EE 364A)" />
+      <node id="CS 335: Fair, Accountable, and Transparent (FAT) Deep Learning" label="CS 335: Fair, Accountable, and Transparent (FAT) Deep Learning" />
+      <node id="CS 336: Robot Perception and Decision-Making: Optimal and Learning-based Approaches" label="CS 336: Robot Perception and Decision-Making: Optimal and Learning-based Approaches" />
+      <node id="CS 337: AI-Assisted Care (MED 277)" label="CS 337: AI-Assisted Care (MED 277)" />
+      <node id="CS 340: Topics in Computer Systems" label="CS 340: Topics in Computer Systems" />
+      <node id="CS 341: Project in Mining Massive Data Sets" label="CS 341: Project in Mining Massive Data Sets" />
+      <node id="CS 342: Building for Digital Health (MED 253)" label="CS 342: Building for Digital Health (MED 253)" />
+      <node id="CS 344: Topics in Computer Networks" label="CS 344: Topics in Computer Networks" />
+      <node id="CS 345S: Data-intensive Systems for the Next 1000x" label="CS 345S: Data-intensive Systems for the Next 1000x" />
+      <node id="CS 347: Human-Computer Interaction Research" label="CS 347: Human-Computer Interaction Research" />
+      <node id="CS 348A: Computer Graphics: Geometric Modeling &amp; Processing" label="CS 348A: Computer Graphics: Geometric Modeling &amp; Processing" />
+      <node id="CS 348B: Computer Graphics: Image Synthesis Techniques" label="CS 348B: Computer Graphics: Image Synthesis Techniques" />
+      <node id="CS 348C: Computer Graphics: Animation and Simulation" label="CS 348C: Computer Graphics: Animation and Simulation" />
+      <node id="CS 348E: Character Animation: Modeling, Simulation, and Control of Human Motion" label="CS 348E: Character Animation: Modeling, Simulation, and Control of Human Motion" />
+      <node id="CS 348K: Visual Computing Systems" label="CS 348K: Visual Computing Systems" />
+      <node id="CS 349: Topics in Programming Systems" label="CS 349: Topics in Programming Systems" />
+      <node id="CS 349D: Cloud Computing Technology" label="CS 349D: Cloud Computing Technology" />
+      <node id="CS 349F: Technology for Financial Systems" label="CS 349F: Technology for Financial Systems" />
+      <node id="CS 350: Secure Compilation" label="CS 350: Secure Compilation" />
+      <node id="CS 352: Pseudo-Randomness" label="CS 352: Pseudo-Randomness" />
+      <node id="CS 353: The Practice of Theory Research" label="CS 353: The Practice of Theory Research" />
+      <node id="CS 354: Topics in Intractability: Unfulfilled Algorithmic Fantasies" label="CS 354: Topics in Intractability: Unfulfilled Algorithmic Fantasies" />
+      <node id="CS 355: Advanced Topics in Cryptography" label="CS 355: Advanced Topics in Cryptography" />
+      <node id="CS 356: Topics in Computer and Network Security" label="CS 356: Topics in Computer and Network Security" />
+      <node id="CS 357: Advanced Topics in Formal Methods" label="CS 357: Advanced Topics in Formal Methods" />
+      <node id="CS 358: Topics in Programming Language Theory" label="CS 358: Topics in Programming Language Theory" />
+      <node id="CS 358A: Programming Language Foundations" label="CS 358A: Programming Language Foundations" />
+      <node id="CS 359: Topics in the Theory of Computation" label="CS 359: Topics in the Theory of Computation" />
+      <node id="CS 360: Simplicity and Complexity in Economic Theory (ECON 284)" label="CS 360: Simplicity and Complexity in Economic Theory (ECON 284)" />
+      <node id="CS 361: Engineering Design Optimization (AA 222)" label="CS 361: Engineering Design Optimization (AA 222)" />
+      <node id="CS 366: Computational Social Choice (MS&amp;E 336)" label="CS 366: Computational Social Choice (MS&amp;E 336)" />
+      <node id="CS 368: Algorithmic Techniques for Big Data" label="CS 368: Algorithmic Techniques for Big Data" />
+      <node id="CS 369: Topics in Analysis of Algorithms" label="CS 369: Topics in Analysis of Algorithms" />
+      <node id="CS 369H: Hierarchies of Integer Programming Relaxations" label="CS 369H: Hierarchies of Integer Programming Relaxations" />
+      <node id="CS 369L: Algorithmic Perspective on Machine Learning" label="CS 369L: Algorithmic Perspective on Machine Learning" />
+      <node id="CS 369M: Metric Embeddings and Algorithmic Applications" label="CS 369M: Metric Embeddings and Algorithmic Applications" />
+      <node id="CS 371: Computational Biology in Four Dimensions (BIOMEDIN 371, BIOPHYS 371, CME 371)" label="CS 371: Computational Biology in Four Dimensions (BIOMEDIN 371, BIOPHYS 371, CME 371)" />
+      <node id="CS 373: Statistical and Machine Learning Methods for Genomics (BIO 268, BIOMEDIN 245, GENE 245, STATS 345)" label="CS 373: Statistical and Machine Learning Methods for Genomics (BIO 268, BIOMEDIN 245, GENE 245, STATS 345)" />
+      <node id="CS 375: Large-Scale Neural Network Modeling for Neuroscience (PSYCH 249)" label="CS 375: Large-Scale Neural Network Modeling for Neuroscience (PSYCH 249)" />
+      <node id="CS 377: Topics in Human-Computer Interaction" label="CS 377: Topics in Human-Computer Interaction" />
+      <node id="CS 377D: Topics in Learning and Technology: d.compress - Designing Calm (EDUC 328A)" label="CS 377D: Topics in Learning and Technology: d.compress - Designing Calm (EDUC 328A)" />
+      <node id="CS 377E: Designing Solutions to Global Grand Challenges" label="CS 377E: Designing Solutions to Global Grand Challenges" />
+      <node id="CS 377G: Designing Serious Games" label="CS 377G: Designing Serious Games" />
+      <node id="CS 377J: Designing Systems for Collaboration, Cooperation, and Collective Action" label="CS 377J: Designing Systems for Collaboration, Cooperation, and Collective Action" />
+      <node id="CS 377N: Introduction to the Design of Smart Products (ME 216M)" label="CS 377N: Introduction to the Design of Smart Products (ME 216M)" />
+      <node id="CS 377P: Advanced User Interface Design Patterns" label="CS 377P: Advanced User Interface Design Patterns" />
+      <node id="CS 377Q: Designing for Accessibility" label="CS 377Q: Designing for Accessibility" />
+      <node id="CS 377T: Topics in Human-Computer Interaction: Teaching Studio Classes" label="CS 377T: Topics in Human-Computer Interaction: Teaching Studio Classes" />
+      <node id="CS 377U: Understanding Users" label="CS 377U: Understanding Users" />
+      <node id="CS 379: Interdisciplinary Topics" label="CS 379: Interdisciplinary Topics" />
+      <node id="CS 379C: Computational Models of the Neocortex" label="CS 379C: Computational Models of the Neocortex" />
+      <node id="CS 384: Seminar on Ethical and Social Issues in Natural Language Processing" label="CS 384: Seminar on Ethical and Social Issues in Natural Language Processing" />
+      <node id="CS 390A: Curricular Practical Training" label="CS 390A: Curricular Practical Training" />
+      <node id="CS 390B: Curricular Practical Training" label="CS 390B: Curricular Practical Training" />
+      <node id="CS 390C: Curricular Practical Training" label="CS 390C: Curricular Practical Training" />
+      <node id="CS 390D: Part-time Curricular Practical Training" label="CS 390D: Part-time Curricular Practical Training" />
+      <node id="CS 393: Computer Laboratory" label="CS 393: Computer Laboratory" />
+      <node id="CS 395: Independent Database Project" label="CS 395: Independent Database Project" />
+      <node id="CS 398: Computational Education" label="CS 398: Computational Education" />
+      <node id="CS 399: Independent Project" label="CS 399: Independent Project" />
+      <node id="CS 399P: Independent Project" label="CS 399P: Independent Project" />
+      <node id="CS 402: Beyond Bits and Atoms: Designing Technological Tools (EDUC 236)" label="CS 402: Beyond Bits and Atoms: Designing Technological Tools (EDUC 236)" />
+      <node id="CS 402L: Beyond Bits and Atoms - Lab (EDUC 211)" label="CS 402L: Beyond Bits and Atoms - Lab (EDUC 211)" />
+      <node id="CS 421: Designing AI to Cultivate Human Well-Being" label="CS 421: Designing AI to Cultivate Human Well-Being" />
+      <node id="CS 428: Computation and Cognition: The Probabilistic Approach (PSYCH 204)" label="CS 428: Computation and Cognition: The Probabilistic Approach (PSYCH 204)" />
+      <node id="CS 431: High-level Vision: From Neurons to Deep Neural Networks (PSYCH 250)" label="CS 431: High-level Vision: From Neurons to Deep Neural Networks (PSYCH 250)" />
+      <node id="CS 448: Topics in Computer Graphics" label="CS 448: Topics in Computer Graphics" />
+      <node id="CS 448B: Data Visualization" label="CS 448B: Data Visualization" />
+      <node id="CS 448H: Topics in Computer Graphics: Agile Hardware Design" label="CS 448H: Topics in Computer Graphics: Agile Hardware Design" />
+      <node id="CS 448I: Computational Imaging and Display (EE 367)" label="CS 448I: Computational Imaging and Display (EE 367)" />
+      <node id="CS 448M: Making Making Machines for Makers" label="CS 448M: Making Making Machines for Makers" />
+      <node id="CS 448V: Topics in Computer Graphics: Computational Video Manipulation" label="CS 448V: Topics in Computer Graphics: Computational Video Manipulation" />
+      <node id="CS 468: Topics in Geometric Algorithms: Riemannian Methods in Computer Vision and Biomedical Imaging" label="CS 468: Topics in Geometric Algorithms: Riemannian Methods in Computer Vision and Biomedical Imaging" />
+      <node id="CS 476A: Music, Computing, Design I: The Art of Design (MUSIC 256A)" label="CS 476A: Music, Computing, Design I: The Art of Design (MUSIC 256A)" />
+      <node id="CS 476B: Music, Computing, Design II: Virtual and Augmented Reality for Music (MUSIC 256B)" label="CS 476B: Music, Computing, Design II: Virtual and Augmented Reality for Music (MUSIC 256B)" />
+      <node id="CS 499: Advanced Reading and Research" label="CS 499: Advanced Reading and Research" />
+      <node id="CS 499P: Advanced Reading and Research" label="CS 499P: Advanced Reading and Research" />
+      <node id="CS 520: Knowledge Graphs" label="CS 520: Knowledge Graphs" />
+      <node id="CS 521: Seminar on AI Safety" label="CS 521: Seminar on AI Safety" />
+      <node id="CS 522: Seminar in Artificial Intelligence in Healthcare" label="CS 522: Seminar in Artificial Intelligence in Healthcare" />
+      <node id="CS 529: Robotics and Autonomous Systems Seminar (AA 289)" label="CS 529: Robotics and Autonomous Systems Seminar (AA 289)" />
+      <node id="CS 544: INTERACTIVE MEDIA AND GAMES (BIOE 196, BIOPHYS 196)" label="CS 544: INTERACTIVE MEDIA AND GAMES (BIOE 196, BIOPHYS 196)" />
+      <node id="CS 547: Human-Computer Interaction Seminar" label="CS 547: Human-Computer Interaction Seminar" />
+      <node id="CS 549: Human-Computer Interaction in the Real World" label="CS 549: Human-Computer Interaction in the Real World" />
+      <node id="CS 571: Surgical Robotics Seminar (ME 571)" label="CS 571: Surgical Robotics Seminar (ME 571)" />
+      <node id="CS 581: Media Innovation" label="CS 581: Media Innovation" />
+      <node id="CS 801: TGR Project" label="CS 801: TGR Project" />
+      <node id="CS 802: TGR Dissertation" label="CS 802: TGR Dissertation" />
+    </nodes>
+    <edges>
+      <edge source="CS 106A: Programming Methodology" target="CS 237B: Principles of Robot Autonomy II (AA 174B, AA 274B, EE 260B)" id="0" />
+      <edge source="CS 106A: Programming Methodology" target="CS 106E: Exploration of Computing" id="1" />
+      <edge source="CS 106A: Programming Methodology" target="CS 106X: Programming Abstractions (Accelerated)" id="2" />
+      <edge source="CS 106A: Programming Methodology" target="CS 275: Translational Bioinformatics (BIOE 217, BIOMEDIN 217, GENE 217)" id="3" />
+      <edge source="CS 106A: Programming Methodology" target="CS 377N: Introduction to the Design of Smart Products (ME 216M)" id="4" />
+      <edge source="CS 106A: Programming Methodology" target="CS 47: Cross-Platform Mobile Development" id="5" />
+      <edge source="CS 106A: Programming Methodology" target="CS 141: Introduction to Computer Sound" id="6" />
+      <edge source="CS 106A: Programming Methodology" target="CS 106B: Programming Abstractions" id="7" />
+      <edge source="CS 106A: Programming Methodology" target="CS 270: Modeling Biomedical Systems: Ontology, Terminology, Problem Solving (BIOMEDIN 210)" id="8" />
+      <edge source="CS 106A: Programming Methodology" target="CS 448M: Making Making Machines for Makers" id="9" />
+      <edge source="CS 106A: Programming Methodology" target="CS 237A: Principles of Robot Autonomy I (AA 174A, AA 274A, EE 260A)" id="10" />
+      <edge source="CS 106A: Programming Methodology" target="CS 193C: Client-Side Internet Technologies" id="11" />
+      <edge source="CS 106A: Programming Methodology" target="CS 11SI: How to Make VR: Introduction to Virtual Reality Design and Development" id="12" />
+      <edge source="CS 106A: Programming Methodology" target="CS 102: Working with Data - Tools and Techniques" id="13" />
+      <edge source="CS 106A: Programming Methodology" target="CS 182: Ethics, Public Policy, and Technological Change (COMM 180, ETHICSOC 182, PHIL 82, POLISCI 182, PUBLPOL 182)" id="14" />
+      <edge source="CS 106A: Programming Methodology" target="CS 235: Computational Methods for Biomedical Image Analysis and Interpretation (BIOMEDIN 260, RAD 260)" id="15" />
+      <edge source="CS 106A: Programming Methodology" target="CS 209: Law, Bias, &amp; Algorithms (CSRE 230, MS&amp;E 330, SOC 279)" id="16" />
+      <edge source="CS 106A: Programming Methodology" target="CS 371: Computational Biology in Four Dimensions (BIOMEDIN 371, BIOPHYS 371, CME 371)" id="17" />
+      <edge source="CS 106A: Programming Methodology" target="CS 181: Computers, Ethics, and Public Policy" id="18" />
+      <edge source="CS 106A: Programming Methodology" target="CS 279: Computational Biology: Structure and Organization of Biomolecules and Cells (BIOE 279, BIOMEDIN 279, BIOPHYS 279, CME 279)" id="19" />
+      <edge source="CS 238: Decision Making under Uncertainty (AA 228)" target="CS 332: Advanced Survey of Reinforcement Learning" id="20" />
+      <edge source="CS 238: Decision Making under Uncertainty (AA 228)" target="CS 239: Advanced Topics in Sequential Decision Making (AA 229)" id="21" />
+      <edge source="CS 221: Artificial Intelligence: Principles and Techniques" target="CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)" id="22" />
+      <edge source="CS 221: Artificial Intelligence: Principles and Techniques" target="CS 366: Computational Social Choice (MS&amp;E 336)" id="23" />
+      <edge source="CS 221: Artificial Intelligence: Principles and Techniques" target="CS 336: Robot Perception and Decision-Making: Optimal and Learning-based Approaches" id="24" />
+      <edge source="CS 221: Artificial Intelligence: Principles and Techniques" target="CS 332: Advanced Survey of Reinforcement Learning" id="25" />
+      <edge source="CS 221: Artificial Intelligence: Principles and Techniques" target="CS 236: Deep Generative Models" id="26" />
+      <edge source="CS 221: Artificial Intelligence: Principles and Techniques" target="CS 224U: Natural Language Understanding (LINGUIST 188, LINGUIST 288)" id="27" />
+      <edge source="CS 221: Artificial Intelligence: Principles and Techniques" target="CS 224S: Spoken Language Processing (LINGUIST 285)" id="28" />
+      <edge source="CS 221: Artificial Intelligence: Principles and Techniques" target="CS 239: Advanced Topics in Sequential Decision Making (AA 229)" id="29" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 193P: iOS Application Development" id="30" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 274: Representations and Algorithms for Computational Molecular Biology (BIOE 214, BIOMEDIN 214, GENE 214)" id="31" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 9: Problem-Solving for the CS Technical Interview" id="32" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 152: Trust and Safety Engineering" id="33" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 336: Robot Perception and Decision-Making: Optimal and Learning-based Approaches" id="34" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 47: Cross-Platform Mobile Development" id="35" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 109: Introduction to Probability for Computer Scientists" id="36" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 129: Applied Machine Learning" id="37" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 398: Computational Education" id="38" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 273A: The Human Genome Source Code (BIOMEDIN 273A, DBIO 273A)" id="39" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 107: Computer Organization and Systems" id="40" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 193X: Web Programming Fundamentals" id="41" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 151: Logic Programming" id="42" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 107E: Computer Systems from the Ground Up" id="43" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 103: Mathematical Foundations of Computing" id="44" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 193A: Android Programming" id="45" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 221: Artificial Intelligence: Principles and Techniques" id="46" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 147: Introduction to Human-Computer Interaction Design" id="47" />
+      <edge source="CS 106B: Programming Abstractions" target="CS 41: Hap.py Code: The Python Programming Language" id="48" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 274: Representations and Algorithms for Computational Molecular Biology (BIOE 214, BIOMEDIN 214, GENE 214)" id="49" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 265: Randomized Algorithms and Probabilistic Analysis (CME 309)" id="50" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 366: Computational Social Choice (MS&amp;E 336)" id="51" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 166: Data Structures" id="52" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 245: Principles of Data-Intensive Systems" id="53" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 194: Software Project" id="54" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 268: Geometric Algorithms" id="55" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 352: Pseudo-Randomness" id="56" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 276: Information Retrieval and Web Search (LINGUIST 286)" id="57" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 260: Geometry of Polynomials in Algorithm Design" id="58" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 354: Topics in Intractability: Unfulfilled Algorithmic Fantasies" id="59" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 264: Beyond Worst-Case Analysis" id="60" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 168: The Modern Algorithmic Toolbox" id="61" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 233: Geometric and Topological Data Analysis (CME 251)" id="62" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 353: The Practice of Theory Research" id="63" />
+      <edge source="CS 161: Design and Analysis of Algorithms" target="CS 261: Optimization and Algorithmic Paradigms" id="64" />
+      <edge source="CS 106X: Programming Abstractions (Accelerated)" target="CS 129: Applied Machine Learning" id="65" />
+      <edge source="CS 106X: Programming Abstractions (Accelerated)" target="CS 221: Artificial Intelligence: Principles and Techniques" id="66" />
+      <edge source="CS 106X: Programming Abstractions (Accelerated)" target="CS 41: Hap.py Code: The Python Programming Language" id="67" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 143: Compilers" id="68" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 110: Principles of Computer Systems" id="69" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 166: Data Structures" id="70" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 145: Data Management and Data Systems" id="71" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 43: Functional Programming Abstractions" id="72" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 348K: Visual Computing Systems" id="73" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 276: Information Retrieval and Web Search (LINGUIST 286)" id="74" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 241: Embedded Systems Workshop (EE 285)" id="75" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 148: Introduction to Computer Graphics and Imaging" id="76" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 142: Web Applications" id="77" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 108: Object-Oriented Systems Design" id="78" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)" id="79" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 243: Program Analysis and Optimizations" id="80" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 168: The Modern Algorithmic Toolbox" id="81" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 294S: Research Project in Software Systems and Security" id="82" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 248: Interactive Computer Graphics" id="83" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 221: Artificial Intelligence: Principles and Techniques" id="84" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 246H: Mining Massive Data Sets Hadoop Lab" id="85" />
+      <edge source="CS 107: Computer Organization and Systems" target="CS 246: Mining Massive Data Sets" id="86" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 143: Compilers" id="87" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 145: Data Management and Data Systems" id="88" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 109: Introduction to Probability for Computer Scientists" id="89" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 154: Introduction to Automata and Complexity Theory" id="90" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 252: Analysis of Boolean Functions" id="91" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 242: Programming Languages" id="92" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 43: Functional Programming Abstractions" id="93" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)" id="94" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 243: Program Analysis and Optimizations" id="95" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 294S: Research Project in Software Systems and Security" id="96" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 161: Design and Analysis of Algorithms" id="97" />
+      <edge source="CS 103: Mathematical Foundations of Computing" target="CS 221: Artificial Intelligence: Principles and Techniques" id="98" />
+      <edge source="CS 51: CS + Social Good Studio: Designing Social Impact Projects" target="CS 52: CS + Social Good Studio: Implementing Social Good Projects" id="99" />
+      <edge source="CS 108: Object-Oriented Systems Design" target="CS 142: Web Applications" id="100" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 229T: Statistical Learning Theory (STATS 231)" id="101" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 336: Robot Perception and Decision-Making: Optimal and Learning-based Approaches" id="102" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 252: Analysis of Boolean Functions" id="103" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 210A: Software Project Experience with Corporate Partners" id="104" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 276: Information Retrieval and Web Search (LINGUIST 286)" id="105" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 398: Computational Education" id="106" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 250: Algebraic Error Correcting Codes (EE 387)" id="107" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 329M: Topics in Artificial Intelligence: Algorithms of Advanced Machine Learning" id="108" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)" id="109" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 273B: Deep Learning in Genomics and Biomedicine (BIODS 237, BIOMEDIN 273B, GENE 236)" id="110" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 229: Machine Learning (STATS 229)" id="111" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 161: Design and Analysis of Algorithms" id="112" />
+      <edge source="CS 109: Introduction to Probability for Computer Scientists" target="CS 221: Artificial Intelligence: Principles and Techniques" id="113" />
+      <edge source="CS 110: Principles of Computer Systems" target="CS 155: Computer and Network Security" id="114" />
+      <edge source="CS 110: Principles of Computer Systems" target="CS 194: Software Project" id="115" />
+      <edge source="CS 110: Principles of Computer Systems" target="CS 140: Operating Systems and Systems Programming" id="116" />
+      <edge source="CS 110: Principles of Computer Systems" target="CS 144: Introduction to Computer Networking" id="117" />
+      <edge source="CS 110: Principles of Computer Systems" target="CS 242: Programming Languages" id="118" />
+      <edge source="CS 110: Principles of Computer Systems" target="CS 210A: Software Project Experience with Corporate Partners" id="119" />
+      <edge source="CS 110: Principles of Computer Systems" target="CS 251: Cryptocurrencies and blockchain technologies" id="120" />
+      <edge source="CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)" target="CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)" id="121" />
+      <edge source="CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)" target="CS 224U: Natural Language Understanding (LINGUIST 188, LINGUIST 288)" id="122" />
+      <edge source="CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)" target="CS 224S: Spoken Language Processing (LINGUIST 285)" id="123" />
+      <edge source="CS 131: Computer Vision: Foundations and Applications" target="CS 231N: Convolutional Neural Networks for Visual Recognition" id="124" />
+      <edge source="CS 140: Operating Systems and Systems Programming" target="CS 240: Advanced Topics in Operating Systems" id="125" />
+      <edge source="CS 140: Operating Systems and Systems Programming" target="CS 190: Software Design Studio" id="126" />
+      <edge source="CS 142: Web Applications" target="CS 253: Web Security" id="127" />
+      <edge source="CS 144: Introduction to Computer Networking" target="CS 244: Advanced Topics in Networking" id="128" />
+      <edge source="CS 144: Introduction to Computer Networking" target="CS 244B: Distributed Systems" id="129" />
+      <edge source="CS 144: Introduction to Computer Networking" target="CS 344: Topics in Computer Networks" id="130" />
+      <edge source="CS 145: Data Management and Data Systems" target="CS 245: Principles of Data-Intensive Systems" id="131" />
+      <edge source="CS 145: Data Management and Data Systems" target="CS 246: Mining Massive Data Sets" id="132" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 377J: Designing Systems for Collaboration, Cooperation, and Collective Action" id="133" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 377G: Designing Serious Games" id="134" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 194H: User Interface Design Project" id="135" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 347: Human-Computer Interaction Research" id="136" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 377P: Advanced User Interface Design Patterns" id="137" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 448B: Data Visualization" id="138" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 247G: Introduction to Game Design" id="139" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 377U: Understanding Users" id="140" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 247A: Design for Artificial Intelligence" id="141" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 247S: Service Design" id="142" />
+      <edge source="CS 147: Introduction to Human-Computer Interaction Design" target="CS 247I: Design for Understanding" id="143" />
+      <edge source="CS 148: Introduction to Computer Graphics and Imaging" target="CS 348E: Character Animation: Modeling, Simulation, and Control of Human Motion" id="144" />
+      <edge source="CS 148: Introduction to Computer Graphics and Imaging" target="CS 448B: Data Visualization" id="145" />
+      <edge source="CS 149: Parallel Computing" target="CS 217: Hardware Accelerators for Machine Learning" id="146" />
+      <edge source="CS 154: Introduction to Automata and Complexity Theory" target="CS 254: Computational Complexity" id="147" />
+      <edge source="CS 154: Introduction to Automata and Complexity Theory" target="CS 352: Pseudo-Randomness" id="148" />
+      <edge source="CS 154: Introduction to Automata and Complexity Theory" target="CS 353: The Practice of Theory Research" id="149" />
+      <edge source="CS 193A: Android Programming" target="CS 377U: Understanding Users" id="150" />
+      <edge source="CS 193P: iOS Application Development" target="CS 377U: Understanding Users" id="151" />
+      <edge source="CS 197: Computer Science Research" target="CS 197A: Computer Science Research Seminar" id="152" />
+      <edge source="CS 198: Teaching Computer Science" target="CS 198B: Additional Topics in Teaching Computer Science" id="153" />
+      <edge source="CS 210A: Software Project Experience with Corporate Partners" target="CS 210B: Software Project Experience with Corporate Partners" id="154" />
+      <edge source="CS 223A: Introduction to Robotics (ME 320)" target="CS 327A: Advanced Robotic Manipulation" id="155" />
+      <edge source="CS 223A: Introduction to Robotics (ME 320)" target="CS 225A: Experimental Robotics" id="156" />
+      <edge source="CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)" target="CS 384: Seminar on Ethical and Social Issues in Natural Language Processing" id="157" />
+      <edge source="CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)" target="CS 224U: Natural Language Understanding (LINGUIST 188, LINGUIST 288)" id="158" />
+      <edge source="CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)" target="CS 224S: Spoken Language Processing (LINGUIST 285)" id="159" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 229T: Statistical Learning Theory (STATS 231)" id="160" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 336: Robot Perception and Decision-Making: Optimal and Learning-based Approaches" id="161" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 332: Advanced Survey of Reinforcement Learning" id="162" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 236: Deep Generative Models" id="163" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 345S: Data-intensive Systems for the Next 1000x" id="164" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 330: Deep Multi-task and Meta Learning" id="165" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 329M: Topics in Artificial Intelligence: Algorithms of Advanced Machine Learning" id="166" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 224S: Spoken Language Processing (LINGUIST 285)" id="167" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 273B: Deep Learning in Genomics and Biomedicine (BIODS 237, BIOMEDIN 273B, GENE 236)" id="168" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 234: Reinforcement Learning" id="169" />
+      <edge source="CS 229: Machine Learning (STATS 229)" target="CS 231N: Convolutional Neural Networks for Visual Recognition" id="170" />
+      <edge source="CS 224S: Spoken Language Processing (LINGUIST 285)" target="CS 224U: Natural Language Understanding (LINGUIST 188, LINGUIST 288)" id="171" />
+      <edge source="CS 224U: Natural Language Understanding (LINGUIST 188, LINGUIST 288)" target="CS 384: Seminar on Ethical and Social Issues in Natural Language Processing" id="172" />
+      <edge source="CS 228: Probabilistic Graphical Models: Principles and Techniques" target="CS 236: Deep Generative Models" id="173" />
+      <edge source="CS 230: Deep Learning" target="CS 236: Deep Generative Models" id="174" />
+      <edge source="CS 231A: Computer Vision: From 3D Reconstruction to Recognition" target="CS 331B: Representation Learning in Computer Vision" id="175" />
+      <edge source="CS 231N: Convolutional Neural Networks for Visual Recognition" target="CS 331B: Representation Learning in Computer Vision" id="176" />
+      <edge source="CS 234: Reinforcement Learning" target="CS 332: Advanced Survey of Reinforcement Learning" id="177" />
+      <edge source="CS 240: Advanced Topics in Operating Systems" target="CS 349D: Cloud Computing Technology" id="178" />
+      <edge source="CS 244: Advanced Topics in Networking" target="CS 349D: Cloud Computing Technology" id="179" />
+      <edge source="CS 244B: Distributed Systems" target="CS 345S: Data-intensive Systems for the Next 1000x" id="180" />
+      <edge source="CS 244B: Distributed Systems" target="CS 349D: Cloud Computing Technology" id="181" />
+      <edge source="CS 245: Principles of Data-Intensive Systems" target="CS 345S: Data-intensive Systems for the Next 1000x" id="182" />
+      <edge source="CS 245: Principles of Data-Intensive Systems" target="CS 349D: Cloud Computing Technology" id="183" />
+      <edge source="CS 248: Interactive Computer Graphics" target="CS 348B: Computer Graphics: Image Synthesis Techniques" id="184" />
+      <edge source="CS 253: Web Security" target="CS 275B: Music Query, Analysis, and Style Simulation (MUSIC 254)" id="185" />
+      <edge source="CS 254: Computational Complexity" target="CS 254B: Computational Complexity II" id="186" />
+      <edge source="CS 255: Introduction to Cryptography" target="CS 355: Advanced Topics in Cryptography" id="187" />
+      <edge source="CS 476A: Music, Computing, Design I: The Art of Design (MUSIC 256A)" target="CS 476B: Music, Computing, Design II: Virtual and Augmented Reality for Music (MUSIC 256B)" id="188" />
+    </edges>
+  </graph>
+</gexf>
