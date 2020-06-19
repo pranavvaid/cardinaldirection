@@ -5,12 +5,14 @@ import time
 from stanfordclasses import StanfordClass
 import pickle
 import os
+import concurrent.futures
 
 BASEURL = "https://explorecourses.stanford.edu/"
 DEPARTMENTURLMODIFER = "?view=xml-20140630"
 COURSEURLMODIFIER = "search?view=xml-20140630&academicYear=&q={DEPARTMENT}&filter-departmentcode-{DEPARTMENT}=on&filter-coursestatus-Active=on"
 numDirectCourseRelations = 0
 numIndirectCourseRelations = 0
+kNumWorkers = 64
 
 # This function retrieves the all departments
 def retrieveDepartments():
@@ -28,6 +30,7 @@ def retrieveDepartments():
     return allDepartments
 
 def retrieveDepartmentCourses(departmentName):
+    print("RETRIEVING DEPARTMENT COURSES FOR " + departmentName + " AT " + datetime.now().strftime('%H:%M:%S'))
     departmentCourseModifier = COURSEURLMODIFIER.format(DEPARTMENT=departmentName)
     r = requests.get(BASEURL+departmentCourseModifier)
     entireCourseData = xmltodict.parse(r.text, force_list = ('course'))
@@ -117,11 +120,16 @@ def extractClassNames(str, departmentCode, allDepartments):
 
 def findAllCourses(departmentNames):
     allCourses = []
-    for department in departmentNames:
-        print("RETRIEVING DEPARTMENT COURSES FOR " + department['name'] + " AT " + datetime.now().strftime('%H:%M:%S'))
-        toAdd = retrieveDepartmentCourses(department['name'])
-        if toAdd is not None:
-            allCourses.extend(toAdd)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=kNumWorkers) as executor:
+        future_for_classes = {executor.submit(retrieveDepartmentCourses, department['name']): department for department in departmentNames}
+        for future in concurrent.futures.as_completed(future_for_classes):
+            try:
+                toAdd = future.result()
+            except Exception as exc:
+                print("%r resulted in an exception: %s" % (future_for_classes[future]['name'], exc))
+            else:
+                if toAdd is not None:
+                    allCourses.extend(toAdd)
     return allCourses
 
 def createCourseMap(allCourses, allDepartments):
